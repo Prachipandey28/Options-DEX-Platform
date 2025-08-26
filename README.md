@@ -58,6 +58,9 @@ The Options-DEX Platform has significant potential for expansion and enhancement
 - **Analytics Dashboard**: Comprehensive trading analytics and insights
 
 ## Contract Address Details
+contract id : ST2NWZQXDHDNQTRGP7V1NQ7N90VB90GPFG2FK72HH.Options-DEXPlatform
+<img width="1023" height="747" alt="Screenshot 2025-08-26 at 12 27 17 PM" src="https://github.com/user-attachments/assets/93193c48-43e6-42ea-8b67-c9d509808aac" />
+
 
 **Network**: Stacks Mainnet  
 **Contract Address**: `ST2NWZQXDHDNQTRGP7V1NQ7N90VB90GPFG2FK72HH.Options-DEXPlatform`  
