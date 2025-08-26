@@ -68,8 +68,7 @@ contract id : ST2NWZQXDHDNQTRGP7V1NQ7N90VB90GPFG2FK72HH.Options-DEXPlatform
 **Deployment Transaction**: `0x79eba0f01bd05837b1aa194649c0b62c139a90bddf7cb3d3bcc300287de5f7fe`  
 **Block Height**: `10:34:02 26/08/2025`
 
-### Testnet Information
-**Testnet Contract Address**: `[Testnet address will be added]`  
+### Testnet Information 
 **Testnet Network**: Stacks Testnet  
 
 ---
