@@ -71,4 +71,3 @@ The Options-DEX Platform has significant potential for expansion and enhancement
 
 ---
 
-*This contract is currently in development. Please conduct thorough testing before using with mainnet funds.*# Options-DEX-Platform
